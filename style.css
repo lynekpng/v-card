@@ -1,16 +1,9 @@
 body {
     background-color: #e5e5e5;
-    display: flex;
-    justify-content: center;
-  
-    
 
 }
 .content {
     background-color: #f4efef;
-    width: 80%;
-    display: flex;
-    flex-direction: column;
     
    
     
@@ -18,23 +11,19 @@ body {
 
 .rose {
     background-color: #c2adad;
-    width: 30%;
-    height: 90%;
+
 
 }
+
 header, main, section, footer {
     font-family: "fira mono" ;
  
 
 }
-header, main, footer {
-    display: flex ;
-    justify-content: flex-end;
-   
-   
+
     
     
-}
+
 span {
     font-family: "fira code";
     font-weight: 600;
@@ -43,7 +32,4 @@ span {
 header, a {
     color: #847490;
 
-}
-section {
-   width: 30% ;
 }
